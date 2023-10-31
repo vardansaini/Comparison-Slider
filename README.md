@@ -5,9 +5,6 @@ This project is a simple image comparison slider that allows you to compare two 
 ## Features
 
 - Compare two images side by side with a draggable slider.
-- Select 'before' and 'after' images from your device.
-- Check the aspect ratio of the selected images to ensure they are the same.
-- Provides visual feedback when images are selected and when aspect ratio requirements are not met.
 
 ## Getting Started
 
@@ -22,20 +19,9 @@ This project is a simple image comparison slider that allows you to compare two 
 ## Usage
 1. Open the `index.html` file in your web browser.
 
-2. Click on the "Select 'After' Image" button to choose the 'after' image.
-
-3. Click on the "Select 'Before' Image" button to choose the 'before' image.
-
-4. Once both images are selected and their aspect ratios are verified, the "Show Difference" button will become visible.
-
-5. Click the "Show Difference" button to compare the two images using the slider.
-
-6. Drag the slider left or right to reveal more or less of the 'before' or 'after' image, respectively.
-
-7. To compare different images, you can repeat the process by clicking the "Select 'After' Image" and "Select 'Before' Image" buttons again.
-
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- This project was created by [Mursal Furqan](https://mursalfk.github.io).
+- This project was originally created by [Mursal Furqan](https://mursalfk.github.io).
+- The project is modified and Updated by [Vardan Saini](https://vardansaini.github.io/vardansaini/).
